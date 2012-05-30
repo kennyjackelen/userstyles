@@ -1,7 +1,0 @@
-@namespace url(http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul);
-
-/* Bookmarks Toolbar - Icons Only */
-toolbarbutton.bookmark-item {
-  width:24px !important;
-  padding:2px 5px 2px 10px !important;
-}
